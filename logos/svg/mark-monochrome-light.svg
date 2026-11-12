@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description" color="#FBF6EE">
+  <title id="title">ASTRONEF</title>
+  <desc id="description">Symbole ASTRONEF monochrome clair en forme de A origami</desc>
+  <g>
+    <path fill="#FFFDF8" d="M256 35 256 214 221 243 92 350Z"/>
+    <path fill="#E8DED0" d="M256 35 420 350 291 244 256 214Z"/>
+    <path fill="#F2E9DD" d="M92 350 42 448 214 407 235 268 221 243Z"/>
+    <path fill="#CFC0AD" d="M420 350 470 448 298 407 277 268 291 244Z"/>
+  </g>
+</svg>
