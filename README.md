@@ -31,10 +31,9 @@ Photo : [`photos/vincent-chapron.jpg`](photos/vincent-chapron.jpg) (1254 × 1254
 
 | Fichier | Usage |
 |---|---|
-| `lockup-horizontal-color` | Logo principal, sur fond clair |
-| `lockup-stacked-color` | Logo principal en hauteur, sur fond clair |
-| `*-monochrome` | Une seule couleur, sur fond clair |
-| `*-monochrome-light` | Une seule couleur, sur fond sombre |
+| `lockup-horizontal-monochrome` | Logo principal, sur fond clair |
+| `lockup-stacked-monochrome` | Logo principal en hauteur, sur fond clair |
+| `*-monochrome-light` | Version claire, sur fond sombre ou sur une photo |
 | `mark-*` | Symbole seul, quand la place manque (avatar, icône) |
 | `wordmark*` | Nom seul |
 
@@ -44,7 +43,7 @@ Chaque logo existe en SVG (`logos/svg/`, vectoriel, à préférer) et en PNG tra
 
 - Ne pas déformer, incliner, recolorer ni ajouter d'effet (ombre, contour).
 - Garder autour du logo une marge au moins égale à la hauteur du « A » du nom.
-- Sur une photo ou un fond chargé, utiliser une version monochrome.
+- Sur un fond sombre ou une photo, utiliser la version `-light`.
 
 ## Couleurs
 
