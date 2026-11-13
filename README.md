@@ -1,6 +1,6 @@
 # Kit de presse d'Astronef
 
-Logos, couleurs, photo du fondateur et textes de présentation d'[Astronef](https://www.astronef.dev/), pour les journalistes, blogueurs et partenaires.
+Logos, captures du produit, couleurs, photo du fondateur et textes de présentation d'[Astronef](https://www.astronef.dev/), pour les journalistes, blogueurs et partenaires.
 
 **Tout télécharger** : [kit-de-presse.zip](https://github.com/astronef-dev/kit-de-presse/archive/refs/heads/main.zip)
 
