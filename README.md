@@ -27,6 +27,19 @@ Vincent Chapron a fondé Astronef en novembre 2026. Développeur fullstack depui
 
 Photo : [`photos/vincent-chapron.jpg`](photos/vincent-chapron.jpg) (1254 × 1254 px), libre d'usage pour parler d'Astronef.
 
+## Captures du produit
+
+| Fichier | Ce qu'on voit |
+|---|---|
+| [`conversation-et-site.jpg`](captures/conversation-et-site.jpg) | Une boulangère décrit son activité dans la conversation, et son site s'affiche à côté (1600 × 840 px) |
+| [`etape-1-raconter.png`](captures/etape-1-raconter.png) | Étape 1 : elle raconte son activité à l'assistant |
+| [`etape-2-premiere-version.png`](captures/etape-2-premiere-version.png) | Étape 2 : la première version du site, à côté de la conversation |
+| [`etape-3-corriger-publier.png`](captures/etape-3-corriger-publier.png) | Étape 3 : un commentaire posé sur le titre dans l'aperçu, et le bouton Publier |
+| [`exemple-consultante-rh.png`](captures/exemple-consultante-rh.png) | Le haut d'un site de consultante en ressources humaines, écrit par Astronef à partir d'une phrase et de deux photos |
+| [`exemple-osteopathe.png`](captures/exemple-osteopathe.png) | Le haut d'un site d'ostéopathe, écrit par Astronef à partir d'une phrase et de deux photos |
+
+Les entreprises montrées sont des exemples de démonstration.
+
 ## Logos
 
 | Fichier | Usage |
@@ -57,10 +70,10 @@ Chaque logo existe en SVG (`logos/svg/`, vectoriel, à préférer) et en PNG tra
 
 ## Conditions d'utilisation
 
-Le nom, les logos et la photo d'Astronef restent la propriété d'ASTRONEF.DEV, tous droits réservés. Ils peuvent être utilisés librement pour parler d'Astronef (article, reportage, publication, présentation), sans modification. Toute autre utilisation, notamment dans une publicité ou pour laisser croire à un partenariat, demande notre accord écrit : [presse@astronef.dev](mailto:presse@astronef.dev).
+Le nom, les logos, les captures et la photo d'Astronef restent la propriété d'ASTRONEF.DEV, tous droits réservés. Ils peuvent être utilisés librement pour parler d'Astronef (article, reportage, publication, présentation), sans modification. Toute autre utilisation, notamment dans une publicité ou pour laisser croire à un partenariat, demande notre accord écrit : [presse@astronef.dev](mailto:presse@astronef.dev).
 
 ---
 
 ## In English
 
-Astronef builds websites for small businesses through a conversation with an AI assistant: you describe your business, and your site is online within minutes. Launched in November 2026 by Vincent Chapron, a full-stack developer for nearly ten years. Logos (SVG and PNG), colours and the founder's photo are free to use for editorial coverage of Astronef, unmodified. Any other use requires our written consent. Press contact: [presse@astronef.dev](mailto:presse@astronef.dev).
+Astronef builds websites for small businesses through a conversation with an AI assistant: you describe your business, and your site is online within minutes. Launched in November 2026 by Vincent Chapron, a full-stack developer for nearly ten years. Logos (SVG and PNG), product screenshots, colours and the founder's photo are free to use for editorial coverage of Astronef, unmodified. Any other use requires our written consent. Press contact: [presse@astronef.dev](mailto:presse@astronef.dev).
